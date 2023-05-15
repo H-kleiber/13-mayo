@@ -43,12 +43,7 @@
 // let n1=prompt("ingrese un numero1");
 // let n2=prompt("ingrese un numero2");
 // let n3=prompt("ingrese un numero3");
-// if (n1==n2 || n){  
-//     if(n1>n3){
-//         alert("el numero 3 es mayor " +n3)
-//     }else
-//     alert("el numero 1 y numero 2 son iguales"+n1 +n2)
-// }if 
+
 // const menores =()=>{
 //     if (n1 > n2) {
 //         if (n1 > n3) {
