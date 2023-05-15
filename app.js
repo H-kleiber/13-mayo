@@ -167,7 +167,37 @@
 // domingo, etc). El programa mostrará un mensaje personalizado para cada día de
 // la semana por medio de un alert. Y seguirá pidiendo al usuario introducir otro día.
 // En caso de que el día introducido sea domingo mostrar al usuario el mensaje “Ve
-// a descansar” y terminar la captura de información.
+// a descansar” y terminar la captura de información
+
+
+/*
+let dia;
+
+while(dia !=="Domingo"){
+    dia = prompt("Ingresa los dias de la semana");
+    if(dia == "lunes"){
+       alert (" Lunes")
+    } else if(dia == "martes"){
+       alert(" martes") }
+    else if(dia == "martes"){
+       alert("" martes") }
+    else if(dia == "miercoles"){
+       alert(" Miercoles")}
+    else if(dia == "jueves"){
+       alert("Jueves")}
+    else if(dia == "viernes"){
+       alert("Viernes")}
+    else if(dia == "sabado"){
+        alert(" Sabado")}
+    else {
+        alert("Ve a descansar")
+        }
+                                                                                                                                    
+    }
+
+
+/*
+
 
 
 
