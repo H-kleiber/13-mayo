@@ -198,6 +198,28 @@ while(dia !=="Domingo"){
 // error. Si lo está, imprima “reprobado” si la calificación es inferior a 6, “regular” si
 // está entre 6 y 8, “bien” si es 9, y por último, “excelente” si es 10.
 
+// function calificacion(){
+//    let nota=prompt("ingrese la calificadion");
+//    nota=Number(nota);
+//    if (nota>=1 && nota<=10){
+//        if(nota<6){
+//            alert("Reprobado")
+//        }if(nota>=6 && nota<=8){
+//            alert("Regular")
+//        }if(nota===9){
+//            alert("Bien")
+//        }if(nota===10){
+//            alert("excelente")
+//        }
+//    }
+//    else{
+//        alert(" ERROR ; ingrese un rango de nota entra 1 y 10");
+//    }
+// }
+// calificacion();
+
+
+
 // 12. Escribe un programa que responda a un usuario que quiere comprar un helado en
 // una conocida marca de comida rápida, cuánto le costará en función del topping
 // que elija.
