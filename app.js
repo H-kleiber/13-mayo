@@ -231,6 +231,37 @@ while(dia !=="Domingo"){
 // indicará “no tenemos este topping, lo sentimos.” y a continuación le informará el
 // precio del helado sin ningún topping.
 
+
+
+// function herlado(){
+//    const helados=[{name:"oreo",
+//                    precio:10},
+//                   {name:"kitkat",
+//                     precio:15}, 
+//                   {name:"brownie",
+//                    precio:20},
+//                   {name:"sin topping",
+//                    precio:50
+//                   }];
+  
+//                    let entrada=prompt("eliga un helado ");
+//                    entrada=entrada.toLowerCase();
+//                    let array=[];
+  
+//                   if (entrada!== ' '){
+//                       for (i=0;i<helados.length; i++){
+//                           if ((helados[i].name)===entrada){
+//                               array.push(helados[i].name)
+//                               console.log(array[0])
+//                               console.log(helados[i].precio+ "MXN ")
+//                               break;
+//                           }
+//                       }
+//                    }
+//                    }
+      
+//       herlado()
+  
 // 13. Un conocido portal de educación en tecnología está ofreciendo programas para
 // aprender a desarrollar aplicaciones. Escribe un programa que le indique a la
 // persona interesada cuánto deberá pagar mensualmente de acuerdo a la opción
